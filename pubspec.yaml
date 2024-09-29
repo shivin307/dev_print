@@ -1,0 +1,13 @@
+name: dev_print
+description: "A utility for improved logging (console output) in Flutter apps with formatted messages and tags."
+version: 0.0.1
+repository: https://github.com/shivin307/dev_print
+homepage: https://github.com/shivin307/dev_print
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+#  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
